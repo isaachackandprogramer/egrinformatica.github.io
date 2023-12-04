@@ -1,0 +1,47 @@
+.title2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    color: darkblue;
+}
+
+.titulo{
+    font-family: Arial;
+    color:darkblue;
+    
+}
+
+.paragrafo{
+    font-family:Arial;
+    font-size:  20px;
+    color:darkblue;
+}
+
+
+.l1{
+    font-family:Arial;
+    font-size:30px ;
+    color: darkblue;
+    }
+
+    .p2{
+        font-size:25px;
+        font-family:Arial ;
+        font-weight:300 ;
+        color: darkblue;
+    }
+
+   
+    div {
+        background-image: linear-gradient(to right, red, yellow);
+      }
+
+
+      .l2{
+        font-size: xx-small;
+      }
+   
+
+   
+    
+
+    
